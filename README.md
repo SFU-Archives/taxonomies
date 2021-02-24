@@ -16,7 +16,7 @@ Terms for describing the functions of the Archives department. Used in the AIS t
 
 ## Carrier and content types
 Terms for describing the physical supports or carriers of archival records; and for describing the contents held on them. The Archives uses these taxonomies for item-level characterization in its AIS database. They generate drop-down value lists in the Object table, used to register non-textual physical media and storage devices.
-- [Carrier type (pdf)](downloads/carrier-types.pdf)
+- [Carrier types (pdf)](downloads/carrier-types.pdf)
 - [Content types (pdf)](downloads/content-types.pdf)
 
 ###### Last updated: Feb 24, 2021
